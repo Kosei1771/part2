@@ -2,16 +2,17 @@
 /* CSS Document */
 
 body{
+	background:#C1C0C0;
 	min-width: 1024px;
 	font-family:"didact-gothic";
 }
 
 .header1{
-	font-size: 40px;
-	text-align: center;
+	color: #FF8D3A;
 }
 .header2{
-	text-align: center;
+	font-size: 30px;
+	color: #FF8D3A;
 }
 .body{
 	margin-bottom: 10px;
